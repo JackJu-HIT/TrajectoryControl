@@ -10,4 +10,5 @@
 # 可以得到两个不同轨迹图（只是修改了航向角theta，你也可以修改起点坐标）
   附件参见附件。
 # 体的技术说明参见我的CSDN博客，见主页
-https://blog.csdn.net/qq_40464599/article/details/107239274
+https://blog.csdn.net/qq_40464599/article/details/107239274   （航向角PID）
+https://blog.csdn.net/qq_40464599/article/details/107267774   （航向角PID和距离PID)
